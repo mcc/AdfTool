@@ -1,0 +1,1 @@
+PortalWebAssets.jar,../../library/PortalWebAssets.library
